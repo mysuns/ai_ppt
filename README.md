@@ -10,3 +10,5 @@
 
 ## 欢迎在 [issue](https://github.com/mysuns/ai_ppt/issues/1) 里面讨论问题，谢谢
 
+## 最新说明文档为准 [说明文档](https://docs.qq.com/doc/DQ2h0V1JFZXVLT2JC) 欢迎讨论
+
